@@ -7,7 +7,6 @@ Este repositorio contiene los modelos de simulación, rutinas de cálculo param�
 ## Contenido del Repositorio
 
 * **Modelos_HYPERSIM**: Contiene el lienzo principal del proyecto y los subsistemas de los Recursos Energéticos Distribuidos (DERs).
-* **Scripts_Calculos**: Rutinas para el cálculo de ganancias de los controladores PI, dimensionamiento de los enlaces DC y filtros de acoplamiento.
 * **Resultados_ScopeView**: Trazas dinámicas y transitorios extraídos de las 5 pruebas de validación descritas en el documento de tesis.
 
 ---
