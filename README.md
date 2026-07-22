@@ -33,4 +33,4 @@ Durante el desarrollo e implementación de este ecosistema de red aislada, se do
 
 ---
 **Autor:** Maria Paula Alarcón Perico  
-**Institución:** Departamento de Ingeniería Eléctrica y Electrónica - Universidad [Nombre]
+**Institución:** Departamento de Ingeniería Eléctrica y Electrónica - Universidad de Los Andes
